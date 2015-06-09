@@ -4,4 +4,4 @@ remote edit 1
 remote edit 2
 update at HOME
 update windows heron
-conflict from local
+fix conflict sp5+heron...
